@@ -1,0 +1,17 @@
+.icon-box svg {
+  width: 30px;
+  height: 30px;
+  background: white;
+  border-radius: 4px;
+  padding: 2px;
+}
+
+.icon-box {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}
+
+.icon-title {
+  font-size: 12px;
+}
