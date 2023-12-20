@@ -1,8 +1,16 @@
-# React + Vite
+WeatherInfo React App
+This is a React app that displays weather information for a given city. It utilizes the WeatherAPI.com service to fetch weather data.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Displays current weather information such as temperature, humidity, wind speed, and condition.
+Allows users to search for weather information by entering the name of a city.
+Provides real-time weather updates for the searched city.
+Responsive design for a seamless user experience across different devices.
 
-Currently, two official plugins are available:
+Technologies Used
+1. React: A JavaScript library for building user interfaces.
+2. Axios: A popular HTTP client for making API requests.
+3. WeatherAPI.com: An API service that provides weather data.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+   ![Screenshot 2023-12-20 114349](https://github.com/fariidlotfi/weather-app/assets/138003177/44800ab7-296a-400a-9979-06d950b6cc88)
