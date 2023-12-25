@@ -8,6 +8,15 @@ Provides real-time weather updates for the searched city.
 Responsive design for a seamless user experience across different devices.
 
 Technologies Used
+<<<<<<< HEAD
 * React: A JavaScript library for building user interfaces.
 * Axios: A popular HTTP client for making API requests.
 * WeatherAPI.com: An API service that provides weather data.
+=======
+1. React: A JavaScript library for building user interfaces.
+2. Axios: A popular HTTP client for making API requests.
+3. WeatherAPI.com: An API service that provides weather data.
+
+
+   ![Screenshot 2023-12-20 114349](https://github.com/fariidlotfi/weather-app/assets/138003177/44800ab7-296a-400a-9979-06d950b6cc88)
+>>>>>>> origin/master
