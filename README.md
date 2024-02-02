@@ -1,6 +1,8 @@
 WeatherInfo React App
 This is a React app that displays weather information for a given city. It utilizes the WeatherAPI.com service to fetch weather data.
 
+[View Online Demo](https://weather-app-lovat-theta-56.vercel.app/)
+
 Features
 Displays current weather information such as temperature, humidity, wind speed, and condition.
 Allows users to search for weather information by entering the name of a city.
