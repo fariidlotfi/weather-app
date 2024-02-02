@@ -6,7 +6,7 @@ const Modal = (params) => {
     <div className="modal-container">
       <div className="modal-body" onClick={() => close()}>
         <img
-          src="src/assets/close.svg"
+          src="assets/close.svg"
           width="30px"
           height="30px"
           alt={"error-icon"}
